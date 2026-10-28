@@ -25,9 +25,6 @@ A hands-on cybersecurity lab built using Oracle VirtualBox and Kali Linux to pra
 - Build a Linux environment for cybersecurity practice.
 - Prepare an isolated lab for future security testing.
 
-## 📸 Screenshots
-
-
 ## 🚀 Future Improvements
 - Add Windows virtual machines for testing.
 - Practice network connectivity testing.
